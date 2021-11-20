@@ -64,3 +64,9 @@ h4 {text-decoration: underline}
     margin: 3%;
 }
 #facts-footer {color: dodgerblue}
+
+/* Styles specific to drawings.html */
+#drawings {background-color: lemonchiffon; color: #e18f1d}
+#drawings-menu {background-color: #fae3bb}
+.drawings-link, .drawings-link:hover {color: #d0841c}
+#drawings-footer {color: coral}
