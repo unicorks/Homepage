@@ -1,0 +1,65 @@
+/* global styles */
+.menubar {
+    position: sticky;
+    top: 0;
+    font-family: "Century Gothic", ui-rounded;
+}
+ul {list-style-type: none}
+body {
+    text-align: center;
+    font-family: "Segoe UI Emoji", ui-rounded;
+    font-size: large;
+}
+footer, #pset8 {font-size: small; text-align: center;}
+a, a:hover {color: inherit}
+
+
+/* Styles specific to index.html */
+#index {background-color: lavenderblush; color: #a90d0d;}
+#index_menu {background-color: #f7d8d5;}
+.facts-link, .index-link:hover {color: darkred}
+#pfp {
+    display: block;
+    width: 300px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 3%;
+    border: 4px solid rebeccapurple;
+}
+#ask_name {font-family: Leelawadee, ui-sans-serif; font-size: large; color: #B70771;}
+#name {
+    border: 2px solid #B70771;
+    border-radius: 5px;
+    background-color: #FFDDF5;
+}
+#submit {
+    background-color: palegreen;
+    border-radius: 8px;
+    border: 3px solid darkgreen;
+}
+#index-footer {color: #B56C77;}
+
+/*Styles specific to writings.html*/
+#writings {background-color: #e6fad8; color: #1c7745}
+#writings_menu {background-color: #c1ffd6}
+.writings-link, .writings-link:hover {color: #17622e}
+#writings-footer {color: #2ebb2e}
+.story {text-align: left;
+    text-shadow: #caffa3;
+    margin: 3%;
+}
+.para {font-size: smaller; color: #21a121}
+h4 {text-decoration: underline}
+
+
+/* Styles specific to facts.html */
+#facts {background-color: lightcyan; color: mediumblue}
+#facts_menu {background-color: powderblue}
+.facts-link, .facts-link:hover {color: navy}
+.facts {
+    font-size: smaller;
+    color: #0e4794;
+    text-align: left;
+    margin: 3%;
+}
