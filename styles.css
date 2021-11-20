@@ -17,7 +17,7 @@ a, a:hover {color: inherit}
 /* Styles specific to index.html */
 #index {background-color: lavenderblush; color: #a90d0d;}
 #index_menu {background-color: #f7d8d5;}
-.facts-link, .index-link:hover {color: darkred}
+.facts-link, .drawings-link:hover {color: darkred}
 #pfp {
     display: block;
     width: 300px;
